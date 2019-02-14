@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "ruby.intellisense": "rubyLocate",
+    "search.smartCase": true,
+    "search.useGlobalIgnoreFiles": true,
+    "[ruby]": {
+        "editor.tabSize": 2,
+    },
+    "ruby.locate": {
+        "include": "**/*.rb",
+        "exclude": "{**/@(test|spec|tmp|.*),**/@(test|spec|tmp|.*)/**,**/*_spec.rb}"
+    },
+    "editor.multiCursorModifier": "Cmd",
+    "terminal.integrated.copyOnSelection": true,
+    "workbench.colorTheme": "GitHub Plus",
+    "editor.fontFamily": "Inconsolata",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+}
