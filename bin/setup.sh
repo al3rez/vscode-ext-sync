@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-command -v code &>/dev/null || { echo -e "🥊 code is is not installed\n"; exit 1; }
+command -v code &>/dev/null || { echo -e "🥊 code is is not installed"; exit 1; }
 
 echo -e "✨ installing extensions"
 
