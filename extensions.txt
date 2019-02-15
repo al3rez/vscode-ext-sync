@@ -2,6 +2,7 @@ chrmarti.ssh
 eamodio.gitlens
 GitHub.vscode-pull-request-github
 jemmyw.rails-fast-nav
+kaiwood.endwise
 misogi.ruby-rubocop
 mrmlnc.vscode-duplicate
 noku.rails-run-spec-vscode
